@@ -2,10 +2,10 @@
 
 # 🎓 LectureAI – Your Personal AI Tutor
 
-**Summer 2025 Internship Project**
-**Topic:** AI Agents for Automation of Tasks
-**Lab:** Algo Lab
-**Team:** Ayushman Anupam, Tejaswi Sherawat
+**Summer 2025 Internship Project**<br>
+**Topic:** AI Agents for Automation of Tasks<br>
+**Lab:** Algo Lab<br>
+**Team:** Ayushman Anupam, Tejaswi Sherawat<br>
 **Mentors:** Animesh Guchhait, Chandrashish Prasad, Hithesh KK, Rahul Shah
 
 ## 📖 Overview
