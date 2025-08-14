@@ -1,1 +1,1 @@
-# LectureAI-Agentic-AI_freamework
+# LectureAI - your personal AI tutor
