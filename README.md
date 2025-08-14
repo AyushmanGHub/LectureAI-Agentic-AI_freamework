@@ -47,7 +47,7 @@ With specialized AI agents, it allows users to:
 
 * **Programming Language:** Python
 * **AI & NLP:**
-
+  * RAG, faiss(for database), ffmpeg (for videos)
   * LLM APIs (OpenAI, Hugging Face)
   * Embedding Model: `mixedbread-ai/mxbai-embed-large-v1`
   * Whisper for transcription
