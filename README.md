@@ -1,5 +1,8 @@
 # LectureAI - your personal AI tutor
 
+## Abstract
+Developed Agentic-AI framework called "Lecture-AI" that addresses the key drawbacks of traditional video-based learning, such as linear information flow, limited interaction, etc. App converts lecture videos into interactive learning experiences, providing a personalized chatbot, mind map, notes, and other materials for enhanced engagement and effectiveness. This Agentic-AI tool enhances learning experiences and saves learners 30–50% of their time through personalized, automated academic support.
+
 # 🎓 LectureAI – Your Personal AI Tutor
 
 **Summer 2025 Internship Project**<br>
