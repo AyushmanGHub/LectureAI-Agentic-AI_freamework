@@ -52,7 +52,7 @@ With specialized AI agents, it allows users to:
   * Embedding Model: `mixedbread-ai/mxbai-embed-large-v1`
   * Whisper for transcription
 * **Frameworks & Libraries:**
-
+  * Langraph for LectureAI (Agentic AI framework)
   * LangChain for MCQ workflows
   * Graphviz for mind map rendering
   * ffmpeg for audio extraction
