@@ -26,6 +26,7 @@ The rapid growth of educational videos in the last decade has led to challenges 
 
 ### Our Solution
 <img src="resources/AppPic01.jpg" alt="Alt Text" width="800" height ="350"/>
+
 **LectureAI** takes video lecture and transforms it pssive watching into an **interactive, insightful, and personalized learning experience** using an **agentic AI framework**.
 With specialized AI agents, it allows users to:
 
@@ -45,6 +46,7 @@ With specialized AI agents, it allows users to:
 * **🔍 Multi-Agent Architecture** – Central LLM-based controller picks the right agent for each task, with a validation layer for accuracy.
 * **⚡ Resource Creation Pipeline** – Automatically extracts raw transcripts, semantic chunks, and time-bounded chunks to power all features.
 
+<img src="resources/AppPic02.jpg" alt="Alt Text" width="800" height ="350"/>
 
 ## 🛠 Technologies Used
 
