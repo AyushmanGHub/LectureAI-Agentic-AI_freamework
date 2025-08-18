@@ -25,7 +25,7 @@ The rapid growth of educational videos in the last decade has led to challenges 
 * **No Personalized Feedback** – No way to measure understanding or progress.
 
 ### Our Solution
-
+<img src="resources/AppPic01.jpg" alt="Alt Text" width="800" height ="350"/>
 **LectureAI** takes video lecture and transforms it pssive watching into an **interactive, insightful, and personalized learning experience** using an **agentic AI framework**.
 With specialized AI agents, it allows users to:
 
