@@ -71,5 +71,4 @@ With specialized AI agents, it allows users to:
 😊 I’m always open to meaningful conversations, collaborative projects, and idea exchanges in the fields of **graph theory**, **machine learning**, and **data science**.
 If you’re interested in discussing new insights, working together on related topics, or contributing to ongoing discussions — feel free to reach out!
 **Let’s learn and build together 🚀**
-nt me to also create a **diagram-based workflow section** for the README so it visually matches your report’s workflow figure? That would make your GitHub page much more engaging.
 
