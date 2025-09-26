@@ -24,12 +24,10 @@ The rapid growth of educational videos in the last decade has led to challenges 
 * **Workflow Breaks** – Needing to leave the platform for missing info.
 * **No Personalized Feedback** – No way to measure understanding or progress.
 ## 🎥 Demo Video
-
-<video src="resources/LectureAI_VideoDemo.mp4" controls="controls" width="600">
-  Your browser does not support the video tag.
-</video>
 ### Our Solution
-<img src="resources/AppPic01.jpg" alt="Alt Text" width="800" height ="350"/>
+
+[![Watch the video](https://github.com/AyushmanGHub/LectureAI-Agentic-AI_freamework/blob/main/resources/AppPic01.jpg)](https://www.youtube.com/watch?v=xcJSrzJfLqM)
+<!-- <img src="resources/AppPic01.jpg" alt="Alt Text" width="800" height ="350"/> -->
 
 **LectureAI** takes video lecture and transforms it pssive watching into an **interactive, insightful, and personalized learning experience** using an **agentic AI framework**.
 With specialized AI agents, it allows users to:
