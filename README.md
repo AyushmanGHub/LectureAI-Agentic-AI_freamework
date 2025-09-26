@@ -23,8 +23,6 @@ The rapid growth of educational videos in the last decade has led to challenges 
 * **Limited Interaction** – No real-time Q\&A or contextual summaries.
 * **Workflow Breaks** – Needing to leave the platform for missing info.
 * **No Personalized Feedback** – No way to measure understanding or progress.
-
-https://github.com/user-attachments/assets/85dacc77-8d35-45db-87fa-2d786ae4717c
 ## 🎥 Demo Video
 
 <video src="resources/LectureAI_VideoDemo.mp4" controls="controls" width="600">
