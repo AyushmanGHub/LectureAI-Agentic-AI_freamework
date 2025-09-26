@@ -24,6 +24,8 @@ The rapid growth of educational videos in the last decade has led to challenges 
 * **Workflow Breaks** – Needing to leave the platform for missing info.
 * **No Personalized Feedback** – No way to measure understanding or progress.
 
+https://github.com/user-attachments/assets/85dacc77-8d35-45db-87fa-2d786ae4717c
+
 ### Our Solution
 <img src="resources/AppPic01.jpg" alt="Alt Text" width="800" height ="350"/>
 
